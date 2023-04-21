@@ -32,6 +32,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+archive/
+input/
 develop-eggs/
 dist/
 plugins/
